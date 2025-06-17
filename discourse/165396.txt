@@ -1,0 +1,159 @@
+Title: Graded assignment 1 - Submission not shown
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/graded-assignment-1-submission-not-shown/165396
+
+Question: Hello, I submitted my graded assignment for TDS course. But unfortunately I did not see the question in the portal asking if I have seen all questions and attended the exam. Can someone please clarify if it shall be graded still? @carlton @Jivraj image 1340×527 17.9 KB image 1002×560 51.4 KB
+
+Image explanation: The image is a screenshot of a webpage, likely an online assessment or learning platform, showing the user's login status, a discussion forum link, and a record of recent saves or attempts. 
+
+Here's a breakdown:
+
+*   **Top Red Bar:** Indicates the assignment or quiz has ended ("Ended at Sun, 26 Jan, 2025, 11:59 pm IST").
+*   **Light Blue Section:** Promotes a discussion forum ("Have questions? Join the discussion on Discourse").
+*   **Login Information:** Shows the user is logged in with a specific ID and email address ("You are logged in as 22ds1000103@ds.study.iitm.ac.in.") and a "Logout" button.
+*   **Recent Saves/Attempts:** Provides a history of the user's saved work or attempts, including timestamps and scores. It shows a few "Reload" links with the date and time of each save, along with the associated score.
+Image explanation: The image shows a graded assignment, with the due date already passed. It provides instructions for accessing the assignment, including disabling ad blockers, allowing cookies, enabling JavaScript, using Chrome browser, disabling browser extensions, and avoiding overly aggressive anti-virus software. It also emphasizes the importance of using the correct student ID.
+
+The assignment includes a question: "I have seen the Graded Assignment 1 available at this link and have attempted it." The student answered "No," but this is incorrect. The correct answer, as indicated, is "Yes". The student received a score of 0 for this question.
+
+Response 1: @Muthupalaniappan It is saying you did not attempt it because you did not answer the seek portal question. You are not graded on the seek portal question. It only exists to make sure you saw the GA and attempted it. You are only graded on your submission of GA1 on the actual assignment page where your last saved submission is used for grading. Kind regards
+
+Response 2: Dear Sir, I encountered the same issue as mentioned. Could you please confirm whether GA 1 will still be evaluated under this condition, and if we will receive our actual score based on the last saved submission on the assignment page?
+
+Response 3: sir can you please allow us to submit it . like open the seek portal for a few mins . because we have worked hard to finished the assignment and all our hardwork will be in vain … please
+
+Response 4: carlton: You are only graded on your submission of GA1 on the actual assignment page where your last saved submission is used for grading. @Venkatesh_2k01 @21f3000599 Please refer to above reply
+
+Response 5: Hello, I accessed the assignment through the provided link and attempted and saved it. But unfortunately I forgot to submit it on my course LMS. I have put in a lot of effort to complete this and I scored 9,  so I kindly request you to consider it and provide your clarification on the matter.
+
+Response 6: Respected Sir, I made the similar mistake of not selecting a yes on the seek IITM portal According to your previous replies, does it imply that only the answers submitted through the link provided will be considered for evaluation regardless of the seek portal selection for this time? Thanks
+
+Response 7: @23f2005471 Correct! Only scores that were saved in your actual last submission on the ga page itself will be evaluated (the portal question is just to make sure you were aware of the GA and confirm that you attempted it). Kind regards
+
+Response 8: Respected Sir/Madam, I have submitted the TDS GA 1 assignment but failed to submit the Yes or NO option in the checkbox I request you to please consider my submission as I have scored 6/10 marks in the assignment and if you won’t my whole efforts will be lost just because of this image 1463×795 64.3 KB
+
+Image explanation: The image shows a graded assignment quiz with instructions and a multiple-choice question. 
+
+Here's a breakdown:
+
+*   **Title:** Graded Assignment 1
+*   **Instructions:** Troubleshooting tips for accessing the assignment (e.g., disable ad blockers, enable cookies/JavaScript, use Chrome browser).
+*   **Important Note:** Users must use their student ID in a specific format for the assignment to be evaluated.
+*   **Question:** A statement about whether the user has seen and attempted the assignment.
+*   **Answer Choices:** Yes or No
+*   **Feedback:** The user answered incorrectly ("No, the answer is incorrect."), receiving a score of 0.
+*   **Accepted Answer:** The correct answer is "Yes".
+
+Response 9: carlton: You are not graded on the seek portal question. It only exists to make sure you saw the GA and attempted it. You are only graded on your submission of GA1 on the actual assignment page where your last saved submission is used for grading. @22f3002539 Please refer to above reply. Kind regards
+
+Response 10: Dear @s.anand sir, For the TDS week 1 assignment, I have submitted it in the link (this link) that was mentioned in the graded assignment but I did not submit yes in the portal tab. Can you please help me out this one time?? I will make sure I submit it in both places next time. I kindly request you to help me out this one time, as this will really impact my grade particularly as of this course. I got a total of 9.5 in this assignment but as you can see in the image attached below I erred up with this submission image 747×473 15 KB
+
+Image explanation: The image shows a multiple-choice question with two options: "Yes" and "No." The question states, "I have seen the Graded Assignment 1 available at [this link] and have attempted it." The image also indicates that the answer given was incorrect, with a score of 0. The accepted answer is "Yes."
+
+Response 11: @Thinesh please refer to the above response. Kind regards
+
+Response 12: Good evening, I have submitted my GA1 in the ex website image 1895×885 65.2 KB I however, I was unable to submit [press the yes] on the iitm TDS coursework site. I just wanted to confirm that my assignment will be graded and taken into consideration. Thank you
+
+Image explanation: The image is a screenshot of a website or application, likely related to an online quiz or assignment.  Here's a breakdown of the content:
+
+*   **Header:** States the end date and time of something: "Ended at Sun, 26 Jan, 2025, 11:59 pm IST."
+*   **Instructions/Information:**
+    *   "Browser may struggle..." gives troubleshooting advice.
+    *   "Use anything..." explicitly allows the use of resources like the internet and ChatGPT.
+    *   "It's hackable..." even acknowledges that the quiz code can be hacked.
+*   **Advice regarding taking TDS:** Provides information on the conditions under which taking the assignment can be successful.
+*   **Question/Discussion Prompt:** "Have questions? Join the discussion on Discourse" linking to a forum.
+*   **User Information:** Shows the logged-in user's email address "23f1002223@ds.study.iitm.ac.in" along with a "Logout" button.
+*   **Recent Saves:** Displays a history of recent saves with timestamps and scores (9.5).
+Response 13: hi even i have faced the same issue
+
+Response 14: @Jivraj @carlton I had made my submission for GA1 on the website and also secured 9/10, image attached as shown. But in the course dashboard i missed out on the trivial step of clicking Yes. Since i am also logged in from my email on the evaluatio website and my score is saved, can iT PLEASE be considered for evaluation. image 856×693 86.9 KB
+
+Image explanation: Here are the bounding box detections:
+```json
+[
+  {"box_2d": [37, 36, 95, 144], "label": "Reload"},
+  {"box_2d": [114, 36, 181, 144], "label": "Reload"},
+  {"box_2d": [202, 36, 269, 144], "label": "Reload"}
+]
+```
+Response 15: @Thinesh @23f1002223 @22f3001365 @Anshuman_Dave Graded assignment 1 - Submission not shown Tools in Data Science @Muthupalaniappan It is saying you did not attempt it because you did not answer the seek portal question. 
+You are not graded on the seek portal question. It only exists to make sure you saw the GA and attempted it. You are only graded on your submission of GA1 on the actual assignment page where your last saved submission is used for grading. 
+Kind regards Please refer to this post. Kind regards
+
+Response 16: image 941×849 35.1 KB
+
+Image explanation: The image shows a quiz or assignment interface with a list of questions and some saved progress information. Here's a breakdown:
+
+*   **Header:** Indicates the quiz's end date (Sun, 26 Jan, 2025, 11:59 pm IST), the current score (0), and options to "Check" and "Save."
+*   **Recent Saves:** Displays a history of saved attempts, including the time they were saved and the corresponding score.
+*   **Questions:** Lists the questions in the quiz. Each question has a number, a title, and the mark it carries.
+
+Here are the questions listed:
+
+1.  VS Code Version (0.25 marks)
+2.  Make HTTP requests with uv (1 mark)
+3.  Run command with npx (0.5 marks)
+4.  Use Google Sheets (0.25 marks)
+5.  Use Excel (0.25 marks)
+6.  Use DevTools (0.5 marks)
+7.  Count Wednesdays (0.5 marks)
+8.  Extract CSV from a ZIP (0.25 marks)
+9.  Use JSON (0.75 marks)
+10. Multi-cursor edits to convert to JSON (0.5 marks)
+11. CSS selectors (0.5 marks)
+12. Process files with different encodings (1 mark)
+13. Use GitHub (0.5 marks)
+14. Replace across files (0.75 marks)
+15. List files and attributes (0.75 marks)
+16. Move and rename files (0.5 marks)
+17. Compare files (0.5 marks)
+18. SQL: Ticket Sales (0.75 marks)
+
+
+Response 17: Hi Mandy, Your scores will be pushed to the Dashboard from your saved submissions. Ignore the seek Portal result (that was a placeholder question to make students aware that GA had been released). Kind regards
+
+Response 18: I have done my GA1 and scored 10/10 still it’s showing 0 on my dashboard. GA1 1519×799 75.2 KB
+
+Image explanation: Here's a breakdown of the image content:
+
+**Overall:**
+
+*   It's a screenshot of what appears to be an online coding/SQL assessment or exercise.
+
+**Key Elements:**
+
+*   **Header:**
+    *   URL: "exam.sanand.workers.dev/tds-2025-01-gal" (suggests an online exam platform)
+    *   Due Date/Time: "Due Sun, 26 Jan, 2025, 11:59 pm IST"
+    *   Score: "Score: 10/10"
+    *   Buttons: "Check" and "Save"
+*   **SQL Query Box:**
+    *   The following SQL query:
+
+    ```sql
+    FROM tickets
+    WHERE LOWER(TRIM(type)) = 'gold';
+    ```
+*   **Problem Description:**
+
+    *   "Get all rows where the Type is "Gold". Ignore spaces and treat mis-spellings like GOLD, gold, etc. as "Gold". Calculate the sales as Units"
+*   **Feedback:**
+    *   "Correct" (indicating the query is correct)
+*   **Submission Status:**
+
+    *   "Submitted"
+    *   Warning that resubmitting will overwrite the previous submission and score
+*   **Footer:**
+
+    *   "Save regularly. Your last saved submission will be evaluated."
+
+**Interpretation:**
+
+The user was tasked with writing an SQL query to retrieve rows from a table named "tickets" where the "type" column contains variations of "Gold". The "LOWER(TRIM(type))" part of the query ensures that the comparison is case-insensitive and that any leading/trailing spaces in the "type" column are removed before comparison.
+
+The user successfully wrote the correct query and has achieved a perfect score.
+
+Response 19: TDS GA1 1080×371 18.9 KB Wrong GA1 score on my dashboard
+
+Image explanation: The image shows a screenshot of a course platform, likely for an online course, possibly from IIT Madras. It displays information about Module 1: Development Tools, specifically regarding a Graded Assignment 1. The assessment was due on January 26, 2025, and has been submitted. The user's score is 100, with options to view a chart. The peer average score is 99% with an option to view a chart as well, and the median score is 100. The left side of the screen indicates navigation options for "Modules" and "Grades".
+

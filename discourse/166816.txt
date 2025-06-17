@@ -1,0 +1,226 @@
+Title: Graded Assignments Dashboard Scores Incorrect/Missing
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/graded-assignments-dashboard-scores-incorrect-missing/166816
+
+Question: hello sir this is Harish. i completed and saved the week 2 and week 4 assignment. (didn’t do week 3) but the graded assignment shows it is incomplete and the score is 0 for both the weeks . i am attaching the iages. kindly check and reply soon sir. image 1035×466 71 KB image 1035×453 27.2 KB this is for week 4 image 1678×847 141 KB image 1035×481 38.9 KB image 463×457 26.9 KB kindly check on this sir.
+
+Image explanation: The image shows a webpage for a course on IIT Madras's learning platform, specifically for "Jan 2025 - TDS".
+
+Here's a breakdown of what's visible:
+
+**Left Sidebar (Course Navigation)**
+
+*   Course Introduction
+*   Module 1: Development Tools
+*   Module 2: Deployment Tools (currently selected/expanded)
+    *   Graded Assignment 2 (selected, indicated by an error icon and the word "Assignment" below it.)
+*   Module 3: Large Language Models
+*   Project 1
+
+**Main Content Area:**
+
+*   **Title:** Graded Assignment 2
+*   **Status:** The due date has passed (Due on 2025-02-02, 23:59 IST).
+*   **Submission Policy:** You may submit any number of times before the due date, with the final submission being considered for grading.
+*   **Troubleshooting Advice:** A list of common issues that might prevent access to the assignment, including:
+    *   Ad blockers
+    *   Cookie blocking
+    *   Javascript being required
+    *   Using Chrome Browser
+    *   Disable browser extensions
+    *   Aggressive anti-virus software
+*   **Important Notice:** Students MUST use their student ID (e.g., 22f3xxxxxx@ds.study.iitm.ac.in) to do the Graded Assignment for evaluation.
+*   **Assignment Link:**  A link to the assignment: https://exam.sanand.workers.dev/tds-2025-01-ga2.
+
+In short, it appears to be the interface for a specific graded assignment within a course, indicating that the due date has passed but access might still be possible.
+
+Image explanation: The image shows a webpage interface for an online course or assessment platform. Here's a breakdown:
+
+*   **Top:** A red bar indicates the assessment has ended ("Ended at Sun, 2 Feb, 2025, 11:59 pm IST"). It also displays the score, "Score: 0", and buttons for "Check all" and "Save".
+*   **Middle:** There's a section for questions and discussion ("Have questions? Join the discussion on Discourse"). The user is logged in as "23f3000975@ds.study.iitm.ac.in" with a "Logout" option. Handwritten annotations say "week 2".
+*   **Bottom:** A green section displays "Recent saves" with reload options, timestamps, and scores (all 6.5).
+
+Essentially, the image captures a snapshot of a user's status and activity within a course or assessment platform after the deadline has passed.
+Image explanation: The image shows a learning platform interface, specifically a page for "Graded Assignment 4" within a course titled "Jan 2025-TDS" from IIT Madras.  The due date for the assignment has passed. There are instructions regarding troubleshooting access to the assignment, including advice on disabling ad blockers, enabling cookies and JavaScript, using Chrome, disabling interfering browser extensions, and checking anti-virus software and network policies. It also instructs the user to use their student ID for the assignment. A link to the graded assignment is provided. The side navigation shows course modules.
+
+Image explanation: The image shows a screen capture of a webpage, likely related to an online course or assignment.  Here's a breakdown of the information displayed:
+
+*   **Course/Assignment Information:** The page is likely for a graded assignment. It mentions bonus marks for posting on the "GA4 - Data Sourcing - Discussion Thread [TDS Jan 2025]" on Discourse, indicating it's part of an IITM BS (likely a Bachelor of Science program at the Indian Institute of Technology Madras) course. A relevant question or reply on the forum earns a bonus mark.
+*   **User Login:** The image states "You are logged in as 23f3000975@ds.study.iitm.ac.in." and provides a logout link.
+*   **Saves:** The image shows "Recent saves (most recent is your official score) " and 3 saves which indicate scores 4 and 8.
+*   **Handwriting:** The words "week 4" is written in handwritten text.
+*   **Deadline and score:** The top of the image shows a deadline and score which indicates "Ended at Sun, 9 Feb, 2025, 11:59 pm IST Score: 0".
+
+Overall, the screenshot is a user's view of an assignment page, including details about bonus marks, login information, previous saves, and the deadline/score.
+Image explanation: The image contains a card for a course titled "Tools in Data Science". It is marked as a "NEW COURSE". The card also indicates that the "Week 1 Assignment" has a score of "87.50".  There is a button that says "Go to Course page >".
+
+Response 1: Could you send me your email id. thanks.
+
+Response 2: Hi, the same issue persists for me for GA 2 and 4. I also did not attemp GA 3. Please look into this. My email id: 24ds3000061@ds.study.iitm.ac.in
+
+Response 3: My Graded assignment results are also not appearing in the dashboard. My email id is 22f2001532@ds.study.iitm.ac.in
+
+Response 4: @24ds3000061 @22f2001532 Can you check the dashboard now, I’ve been informed by operations that the scores have been pushed. GA 4 scores will be a little late to be pushed because there are some manual (i.e. automated using a custom written script) corrections that have to be made to Q4 for students who got Nur-Sultan as their city. Kind regards
+
+Response 5: Thanks Carlton. Now the results are visible in the dashboard. Thanks REVI
+
+Response 6: @carlton Sir in my case, in week 2 it is showing “Absent” but I have attempted and saved the answers Screenshot 2025-02-12 151022 427×596 28.1 KB Screenshot 2025-02-12 151101 1035×434 21 KB My email ID is 22f2000559@ds.study.iitm.ac.in. Thank you.
+
+Image explanation: Here are the bounding box detections:
+```json
+[
+  {"box_2d": [699, 59, 728, 432], "label": "Week 1 Assignment - 57.50"},
+  {"box_2d": [880, 550, 919, 946], "label": "Go to Course page >"},
+  {"box_2d": [772, 62, 801, 432], "label": "Week 3 Assignment - 58.00"},
+  {"box_2d": [375, 103, 434, 793], "label": "Tools in Data Science"},
+  {"box_2d": [102, 35, 166, 766], "label": "My Current Courses"},
+  {"box_2d": [199, 35, 236, 962], "label": "Cumulative Grade Point Average (CGPA) till this ter"},
+  {"box_2d": [242, 35, 275, 999], "label": "Project Cumulative Grade Point Average (Project Co"},
+  {"box_2d": [736, 62, 765, 452], "label": "Week 2 Assignment - Absent"},
+  {"box_2d": [450, 103, 491, 595], "label": "REPEAT FULL COURSE"}
+]
+```
+Image explanation: Here's a breakdown of what's visible in the image:
+
+*   **Login Information:** The image shows a message indicating that a user is logged in with the email address "22f2000559@ds.study.iitm.ac.in".
+
+*   **Logout Button:** There's a "Logout" button, likely to allow the user to end their session.
+
+*   **Recent Saves:** A section labeled "Recent saves" displays a list of saved data.
+
+*   **Score Details:** Each entry under "Recent saves" includes information about the save date and time, along with a "Score".
+
+*   **Reload Button:** It also has the option of reloading the pages.
+
+In Summary, The image is a screenshot of a user's dashboard or profile page, where they can see their login information, logout, and view their recent activity.
+Response 7: Hi @22f2000559 I can confirm that our server did record your marks as 7, we will make a correction in the dashboard. Thanks for letting us know. My sincere apologies for the error. If the marks on the dashboard are not changed within the next 7 days, please let us know. I will follow it up on my end and try to get the correction pushed as soon as possible. Kind regards
+
+Response 8: Thank you so much Sir.
+
+Response 9: Screenshot 2025-02-13 105611 251×317 14.2 KB another embedding
+
+Image explanation: The image is a snapshot of a course progress card, likely from an online learning platform. Here's a breakdown of what it shows:
+
+*   **Course Title:** "Tools in Data Science"
+*   **Status:** "NEW COURSE"
+*   **Assignments and Grades:**
+
+    *   Week 1 Assignment - 82.50
+    *   Week 2 Assignment - 85.00
+    *   Week 3 Assignment - Absent
+*   **Call to Action:** "Go to Course page >" (suggesting a clickable link to access the full course details).
+
+Response 10: @carlton Screenshot 2025-02-13 105835 1140×737 28.5 KB Sir, In my dashboard i am getting Absent for GA3 my email id : 23f3001731@ds.study.iitm.ac.in i am not able to submit embeddings more than 1 so i am submitting it in another reply
+
+Image explanation: The image shows a quiz or exam interface. It indicates the exam has ended (Wed, 5 Feb 2025), and the student's score is 0. It also includes a peculiar note suggesting the quiz is "hackable" to find answers and that multiple servers should be running simultaneously. There's a link to a discussion forum, the logged-in user's information, and recent save history showing scores of 7.5 at different times. Finally, it shows the first question: "LLM Sentiment Analysis (1 mark)."
+
+Response 11: Sir, I have attempted the graded assignment 2 and also saved it but my score is showing as absent. Please look into the issue sir. My email id is 23f1002071@ds.study.iitm.ac.in graded assignment page 1886×776 45.5 KB course dashboard (1) 1919×828 156 KB @carlton @Jivraj
+
+Image explanation: The image shows a screen capture of an online assessment or quiz platform. Here's a breakdown of what's visible:
+
+*   **Header:** A red banner indicating that the assessment has ended on Sun, 2 Feb, 2025, at 11:59 pm IST. The score is currently 0, and there are options to "Check all" and "Save."
+*   **Questions/Discussion:** A section with a link to join a discussion on Discourse for questions.
+*   **User Login:** Information about the logged-in user, 23f1002071@ds.study.iitm.ac.in, along with a "Logout" button.
+*   **Recent Saves:** A list of recent saves with the dates, times, and scores for each save. The most recent save is highlighted as the official score. It shows three entries:
+    *   2/3/2025, 10:27:40 AM: Score 5.5
+    *   2/2/2025, 7:29:26 PM: Score 5.5
+    *   2/2/2025, 2:30:39 PM: Score 2
+Image explanation: The image is a screenshot of a student portal, likely for a course at IIT Madras in Data Science. Here's a breakdown of the elements:
+
+**Header:**
+
+*   IIT Madras logo and name
+*   "Degree in Data Science and Applications"
+*   Student name ("ANVITHA VARRE")
+*   Links for "Latest Updates" and "SIGN OUT"
+*   Date: "15 February, 2025", term "JANUARY 2025 TERM"
+
+**Main Content:**
+
+*   **Title:** "My Current Courses"
+*   **CGPA:** "Cumulative Grade Point Average (CGPA) till this term - 6.44"
+*   **Course Tiles:** Four tiles representing different courses:
+    *   **Tools in Data Science:** Listed as "REPEAT FULL COURSE". Displays assignment grades:
+        *   Week 1 Assignment - 5.00
+        *   Week 2 Assignment - Absent
+        *   Week 3 Assignment - 74.00
+        *   Link: "Go to Course page >"
+    *   **Business Data Management:** Listed as "NEW COURSE". Has a "Go to Course page >" link.
+    *   **Machine Learning Techniques:** Listed as "REPEAT FULL COURSE". Displays assignment grades:
+        *   Week 1 Assignment - 70.00
+        *   Week 2 Assignment - 83.00
+        *   Week 3 Assignment - 80.00
+        *   Week 4 Assignment - 82.00
+        *   Link: "Go to Course page >"
+    *   **Programming, Data Structures and Algorithms using Python:** Listed as "REPEAT FULL COURSE". Displays assignment grades:
+        *   Week 1 Assignment - 100.00
+        *   Week 2 Assignment - 86.00
+        *   Week 3 Assignment - 77.00
+        *   Week 4 Assignment - 50.00
+        *   Week 1 GrPA 1- 100.00
+        *   Week 1 GrPA 2- 100.00
+
+**Overall:**
+
+The image displays a student's dashboard showing their current courses, cumulative grade point average (CGPA), and links to course pages, as well as assignment grades for select courses.
+
+Response 12: Same issue I’m facing in my dashboard for week - 3 it shows I’m absent although on portal it is showing my marks. Please update my dashboard. E-mail: 22f2000905@ds.study.iitm.ac.in TDS 2025 Jan GA3 TDS-W3-Results 2472×1636 313 KB
+
+Image explanation: The image is a screenshot of a test or quiz interface titled "TDS 2025 Jan GA3 - Large Language Models."  It displays the following information:
+
+*   **Test Status:**  The test ended on Wed, Feb 5, 2025, at 11:59 PM IST.
+*   **Score:** Currently 0.
+*   **Buttons:**  "Check all" and "Save" buttons are visible.
+*   **Instructions:** A list of instructions, including tips like learning the material, checking answers regularly, saving regularly, reloading if necessary, and the note that the test is hackable.
+*   **Questions/Discussion:** A section to discuss questions on Discourse.
+*   **Login Information:** The user is logged in as 22f2000905@ds.study.iitm.ac.in.
+*   **Logout Button:** A logout button is available.
+*   **Recent Saves:**  A list of recent saves with timestamps and scores.
+
+Essentially, it's the dashboard or start screen for an online exam about Large Language Models.
+Response 13: TDS 2025 Jan GA3-Dashboard 2750×1328 290 KB
+
+Image explanation: The image shows a webpage from IIT Madras, likely a student dashboard for the Degree in Data Science and Applications program.
+
+Here's a breakdown of the key elements:
+
+*   **Header:** IIT Madras logo, program name, user's name ("SHAILENDRA DHAKAD"), links to "Latest Updates" and "SIGN OUT".
+*   **Date:** "13 February, 2025" and "JANUARY 2025 TERM"
+*   **Main Content:**
+    *   "My Current Courses" heading
+    *   Cumulative Grade Point Average (CGPA) of 6.22
+    *   Three course cards:
+        *   "Tools in Data Science" (NEW COURSE) - showing assignment scores for Week 1 (75.00), Week 2 (100.00), and Week 3 (Absent). A "Go to Course page >" link is present.
+        *   "Business Analytics" (NEW COURSE) - A "Go to Course page >" link is present.
+        *   "Machine Learning Foundations" (REPEAT FULL COURSE) - showing assignment scores for Week 1 (94.00), Week 2 (93.00), Week 3 (100.00), and Week 4 (100.00). A "Go to Course page >" link is present.
+
+In short, it's a student's course overview showing their grades and allowing them to navigate to individual course pages.
+Response 14: Dear Students, On the 13th of Feb (3 day ago at the time of this reply) an email was sent to all students with the subject [TDS Jan 2025] Grade Corrections . Please refer to that email. Kind regards
+
+Response 15: Hello Sir/Mam, I had created this thread to inform that my marks for week -2 and week-4 graded assignment have not yet been updated and showing in the dashboard. But I have attended it, Please resolve the issue and do the needful actions. Regards, Sengathirsoorian E T (22f3000370@ds.study.iitm.ac.in) Week -4 Screenshot_20250215-095816 1080×1852 263 KB I can’t be able to enclose another screenshot of week-2 ( marks-5) as I was a new user.
+
+Image explanation: The image shows information about a course assignment, including:
+
+*   A notification about bonus marks for posting on Discourse (a forum). The notification encourages students to reply to the "GA4 - Data Sourcing - Discussion Thread [TDS Jan 2025]" with a relevant question or reply for a bonus mark.
+*   A message indicating the user is logged in with their email address.
+*   A list of recent save scores with timestamps.
+
+Response 16: On the 13th of Feb (3 day ago at the time of this reply) an email was sent to all students with the subject [TDS Jan 2025] Grade Corrections. Please refer to that email. Kind regards
+
+Response 17: Screenshot (674) 1920×1080 273 KB @Carlton D’Silva sir can u please see this why it’s given zero, it should be 8 right n in my dashboard it’s showing absent so what i should do ?
+
+Image explanation: The image shows the interface of an online programming assignment or quiz, likely for a course or exam. Here's a breakdown of what's visible:
+
+*   **Header:** Indicates the type of assignment (Programming Assignment/Graded Assignment), a possible course code ("TDS 2025 Jan GA3-Large Langu"), the URL, and the ending date and time. The current score is 0.
+*   **Instructions:** Lists important guidelines, including: saving regularly, reloading the page is acceptable, browser troubleshooting tips, the allowance of using any resource (internet, AI, etc.), and the fact that the quiz is hackable. It is also noted that multiple servers are running simultaneously during the exam.
+*   **Communication:** There's a link to a Discourse forum for questions.
+*   **Login Information:** Shows the user's login ID.
+*   **Logout Button:** Allows the user to log out.
+*   **Recent Saves:** Displays a history of saves with timestamps and scores.
+*   **Taskbar (Windows):** The bottom of the screen indicates it's a Windows operating system.
+
+In essence, it's a snapshot of the student's view during an online exam environment.
+Response 18: Please refer to this post GRADED ASSIGNMENT RESULT NOT SHOWING , kindly check on this Tools in Data Science On the 13th of Feb (3 day ago at the time of this reply) an email was sent to all students with the subject [TDS Jan 2025] Grade Corrections. Please refer to that email. 
+Kind regards
+
+Response 19: Okk sir , n sir can u please tell me in which live session u have discussed regarding project becoz till week 3 i have see only n i having confusion in project so i want to see the session of project
+

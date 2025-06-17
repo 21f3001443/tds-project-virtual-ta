@@ -1,0 +1,11 @@
+Title: Chat GPT new release
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/chat-gpt-new-release/166498
+
+Question: Chat GPT has stepped up the game and I am excited Now I can not only generate the code, but can run it and ask it to fix the error with a single click. This changes software development and I guess we are moving in the direction we all know. It also makes this course a lot more important -  the number of new things that I have learnt from this course which I am able to directly apply to my day to day work is immense. Thanks to @s.anand and the entire course team who designed this amazing course I hope ChatGPT solves deployment next Screenshot 2025-02-07 at 7.08.14 PM 1920×1012 120 KB
+
+Image explanation: The image shows a coding interface, likely within a platform like ChatGPT or a similar AI-assisted development environment. On the left, there's a chat window with messages, including one from the AI stating that the code has been updated to handle environments without SSL by using `certifi` and checking the `PYTHONHTTPSVERIFY` environment variable, aiming to resolve a "ModuleNotFoundError: No module named 'ssl'" issue.
+
+The main part of the image contains Python code for a "Wiki Outline Api." The code is designed to fetch a Wikipedia page for a specified country and generate a Markdown outline by extracting headings (H1 to H6).
+
+Below the code, there's a console output showing tracebacks indicating an issue, which likely led to the aforementioned `ModuleNotFoundError: No module named 'ssl'` error. The stack trace points to modules within the `starlette` and `anyio` libraries. Finally, the console displays "Run successfully." indicating that the recent changes in code have fixed the issue with SSL.
+

@@ -1,0 +1,140 @@
+Title: Programming Quiz 1 in Student Dashboard (label for ROE scores) - showing absent or incorrect
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/programming-quiz-1-in-student-dashboard-label-for-roe-scores-showing-absent-or-incorrect/169369
+
+Question: Hey, It’s showiing Absent for Programming Quiz 1, But i submitted it successfully. Is this because of any glitch? Anyone of you having the same error?
+
+Response 1: same problem with  me image 382×386 19 KB
+
+Image explanation: The image shows a screenshot related to a course called "Tools in Data Science". It indicates that it's a "NEW COURSE". Below this, it lists assignments for Week 1 through Week 5, with their respective scores (80.00, 65.00, 21.10, 20.00, and 90.00). Finally, it notes that PROGRAMMING QUIZ 1 was "Absent".
+
+Response 2: Dear Sir, I would like to bring this to your attention that even though I submitted the ROE multiple times, the dashboard is showing absent. I hope the issue will be resolved at earliest as I am not the only one facing this issue Screenshot 2025-03-07 212639 524×386 47.4 KB
+
+Image explanation: The image is a screenshot of a user's online profile. The user is logged in with the email address 23f3004246@ds.study.iitm.ac.in. There is a logout button. The image also shows a section labeled "Recent saves" indicating the user's scores at different times, implying a quiz or assignment.
+
+Response 3: Hi @carlton @Jivraj sir, I wanted to bring to your attention that, although as you are already aware that I was present for the ROE and successfully submitted my exam, my dashboard currently reflects my status as “Absent.” I have attached a screenshot for your reference. I assume this might be a backend issue or that the scores are still being updated. Could you kindly look into this and confirm? Thank you 1000032712 1080×1032 90.3 KB
+
+Image explanation: The image shows information about a "Tools in Data Science" course, which is new. The image also presents assignment scores for the first five weeks:
+
+*   Week 1 Assignment - 100.00
+*   Week 2 Assignment - 90.00
+*   Week 3 Assignment - 100.00
+*   Week 4 Assignment - 110.00
+*   Week 5 Assignment - 100.00
+
+Finally, the image notes a grade of "Absent" for "PROGRAMMING QUIZ 1."
+
+There is a button to "Go to Course page >" at the bottom.
+Response 4: image 444×478 22.1 KB I was attend the roe. Why is it showing as absent? @carlton @Jivraj @s.anand
+
+Image explanation: Here are the bounding box detections:
+```json
+[
+  {"box_2d": [196, 98, 238, 333], "label": "NEW COURSE"},
+  {"box_2d": [514, 59, 539, 378], "label": "Week 1 Assignment - 100.00"},
+  {"box_2d": [643, 59, 668, 378], "label": "Week 4 Assignment - 100.00"},
+  {"box_2d": [690, 59, 716, 378], "label": "Week 5 Assignment - 100.00"},
+  {"box_2d": [912, 527, 952, 908], "label": "Go to Course page >"},
+  {"box_2d": [775, 59, 800, 519], "label": "PROGRAMMING QUIZ 1 - Absent"},
+  {"box_2d": [103, 98, 172, 763], "label": "Tools in Data Science"},
+  {"box_2d": [559, 59, 584, 378], "label": "Week 2 Assignment - 100.00"},
+  {"box_2d": [601, 59, 626, 378], "label": "Week 3 Assignment - 100.00"}
+]
+```
+Response 5: I am experiencing the same issue. I ensured that my submission was completed and saved before the deadline. @carlton @Jivraj
+
+Response 6: IMG_20250307_152827 1012×1136 91 KB I’m experiencing a similar issue, I attended and submitted the exam but it’s showing absent
+
+Image explanation: The image displays information about a course called "Tools in Data Science."  It shows the student's scores on the assignments for Weeks 1 through 5, as well as their status for "PROGRAMMING QUIZ 1". It looks like the student got the following scores:
+
+*   Week 1 Assignment: 57.50
+*   Week 2 Assignment: 75.00
+*   Week 3 Assignment: 100.00
+*   Week 4 Assignment: 100.00
+*   Week 5 Assignment: 100.00
+*   PROGRAMMING QUIZ 1: Absent
+
+There is also a button to "Go to Course page."
+
+Response 7: 
+
+Image explanation: The image contains the text "PROGRAMMING QUIZ 1 - Absent".
+
+Response 8: Are the marks shown after adding bonus or before?
+
+Response 9: Sir even for me it is showing absent , I had attended roe and submitted the answer.
+
+Response 10: I’m experiencing a similar issue, I attended and submitted the exam but it’s showing absent. @carlton @Jivraj roll no. 23f2004320 Screenshot 2025-03-07 224052 416×575 29.7 KB
+
+Image explanation: Here's what I can see in the image:
+
+*   **Course Title:** Tools in Data Science
+*   **Status:** NEW COURSE
+*   **Assignment Grades:**
+    *   Week 1 Assignment - 85.00
+    *   Week 2 Assignment - 55.00
+    *   Week 3 Assignment - 100.00
+    *   Week 4 Assignment - 100.00
+    *   Week 5 Assignment - 100.00
+*   **Quiz Status:** PROGRAMMING QUIZ 1 - Absent
+*   **Navigation Button:** Go to Course page >
+Response 11: @Jivraj @carlton I submitted my exam with perfect 10 score I even went to the technical meet you guys kept and I asked that my score it showing 5/10 but I used the hacking procedure can you please tell what is my score and he said that we will take your highest score only and don’t worry it’s not 5, then I got a invite for the meet you guys kept for those who scored perfectly in the roe, after all this I don’t understand how is my score 60 percent.
+
+Response 12: image 419×365 15.8 KB I’m experiencing a similar issue, I attended and submitted the exam but it’s showing absent. roll no .23f2005141
+
+Image explanation: Here are the bounding box detections:
+```json
+[
+  {"box_2d": [87, 69, 148, 623], "label": "Tools in Data Science"},
+  {"box_2d": [168, 62, 229, 303], "label": "NEW COURSE"},
+  {"box_2d": [506, 37, 536, 335], "label": "Week 1 Assignment - 87.50"},
+  {"box_2d": [551, 37, 583, 336], "label": "Week 2 Assignment - 80.00"},
+  {"box_2d": [598, 37, 629, 336], "label": "Week 3 Assignment - 55.30"},
+  {"box_2d": [646, 37, 677, 336], "label": "Week 4 Assignment - 50.00"},
+  {"box_2d": [692, 37, 723, 336], "label": "Week 5 Assignment - 40.00"},
+  {"box_2d": [781, 37, 812, 305], "label": "PROGRAMMING QUIZ 1"},
+  {"box_2d": [781, 304, 812, 311], "label": "-"},
+  {"box_2d": [781, 310, 812, 383], "label": "Absent"},
+  {"box_2d": [927, 664, 968, 958], "label": "Go to Course page"},
+  {"box_2d": [927, 957, 968, 982], "label": ">"}
+]
+```
+Response 13: image 475×307 8.78 KB this is my roe marks roll no 23f2005141
+
+Image explanation: The image shows a screen capture of a logged-in user on a website, likely related to a course or study program.
+
+Here's a breakdown of the contents:
+
+1.  **User Login Information:** The image displays the message, "You are logged in as 23f2005141@ds.study.iitm.ac.in," indicating the user's login ID or email address.
+2.  **Logout Button:** There is a "Logout" button for the user to sign out of the session.
+3.  **Recent Saves:** A section titled "Recent saves (most recent is your official score)" lists the most recent saves, likely related to progress on a course or test. It includes the date and time of each save, and the score achieved. It looks like the score for all saves is 6. There are options to Reload to the state of a save.
+
+Response 14: Sir even for me it is showing absent , I had attended roe and submitted the answer.
+
+Response 15: I am facing the same issue sir and it’s really scaring me now cause I put so much effort into it ang got 7/10 and now it is showing absent even though i submitted several times
+
+Response 16: image 474×646 36.2 KB @carlton @Jivraj Sir I gave ROE TDS exam and even submitted it  and got many correct answer  but it is showing absent in my dashboard.
+
+Image explanation: Here are the bounding box detections:
+```json
+[
+  {"box_2d": [173, 142, 312, 601], "label": "Tools in Data\nScience"},
+  {"box_2d": [335, 147, 372, 353], "label": "NEW COURSE"},
+  {"box_2d": [535, 102, 557, 453], "label": "Week 1 Assignment - 100.00"},
+  {"box_2d": [575, 102, 597, 446], "label": "Week 2 Assignment - 85.00"},
+  {"box_2d": [614, 102, 636, 453], "label": "Week 3 Assignment - 100.00"},
+  {"box_2d": [653, 102, 675, 456], "label": "Week 4 Assignment - 110.00"},
+  {"box_2d": [693, 102, 716, 453], "label": "Week 5 Assignment - 100.00"},
+  {"box_2d": [770, 104, 792, 510], "label": "PROGRAMMING QUIZ 1 - Absent"},
+  {"box_2d": [888, 431, 923, 820], "label": "Go to Course page"},
+  {"box_2d": [888, 834, 923, 857], "label": ">"}
+]
+```
+The image shows a summary of a course called "Tools in Data Science". The course is marked as a "NEW COURSE". It lists the grades for the first five weekly assignments and indicates that the first programming quiz is absent. Finally, it has a link to go to the course page.
+Response 17: @carlton @Jivraj My result is showing absent please clarify it.
+
+Response 18: I am experiencing the same issue. I ensured that my submission was completed and saved before the deadline. @carlton @Jivraj
+
+Response 19: 24F1001631 here. It is also showing absent for me. I had submitted before the time limit and also after the time limit after hacking it(wasn’t sure if it was allowed but decided to try it nevertheless) I feel I should atleast receive the marks for which I had submitted within the time limit. My roll number is 24F1001631. image 1430×253 11 KB
+
+Image explanation: The image shows a section titled "Recent saves" from a game or application, listing the recent save files with their corresponding dates, times, and scores.  The first save is from 3/2/2025, 2:14:14 PM, with a score of 9.  The second is from 3/2/2025, 2:08:38 PM, with a score of 8.  The third is from 3/2/2025, 1:43:45 PM, with a score of 6.  Each save has a "Reload" button associated with it.  The title also indicates that the most recent save is the user's official score.
+

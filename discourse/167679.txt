@@ -1,0 +1,24 @@
+Title: Inconsistent information in the Grading Document and the website
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/inconsistent-information-in-the-grading-document-and-the-website/167679
+
+Question: The deadlines mentioned in the Grading Document provided and the TDS website ( s-anand.net ) are different. Project-1’s deadline was 15 Feb, it was then postponed to the 16th of Feb. Can this be reflected here? Not affecting me particularly, however, it’s good to be consistent across channels of communication to the students… grab-IIT-Madras--Microsoft Edge_at_11.39.08_on__19-02-2025__003297 1484×1168 161 KB
+
+Image explanation: The image is a document related to a course called "Tools in Data Science" (Diploma in DS). It contains important information about the course, including:
+
+*   **Course Overview:** Mentioning that there are no in-centre quizzes for the course.
+*   **End Term Exam Details:** The exam is scheduled for April 13th, 2025, and will be held in person at designated centres.
+*   **Eligibility Criteria:** Details on eligibility to attend the end-term exam.
+*   **Assessment Breakdown:** A table detailing the different assessment components, including:
+
+    *   Remote Online Exam 1 (ROE1)
+    *   Take-home project 1 (P1)
+    *   Take-home project 2 (P2)
+*   **Dates:** The table includes open dates, submission dates, and peer review dates for each assessment.
+*   **Grading and Formula:** Formula for the calculation of the final course score, depending on the grading scheme used.
+*   **Additional Information:**
+
+    *   Definitions of GAA (score in best 4 of 7 weekly assignments) and F (Final end-term exam).
+    *   A note that P1 and P2 have two components (submissions and peer reviews) with an 80:20 weightage.
+
+Response 1: @23f1003186 Thanks for letting us know (it might take a little while to fix) Kind regards
+

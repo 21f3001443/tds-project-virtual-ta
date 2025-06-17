@@ -1,0 +1,23 @@
+Title: Where are my bonus marks?
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/where-are-my-bonus-marks/160773
+
+Question: Hello, My grades are updated in my dashboard, but my bonus marks are not given, I got bonus marks two times, one was the app design using GPT and another one was student feedback to Project 1. Please look into that. @Jivraj @carlton
+
+Response 1: Hi Rajat, Bonus marks will be added to final score
+
+Response 2: final scores have been released, but we haven’t received any bonus marks
+
+Response 3: Hi MD Irshad, Can you share screenshot of your dashboard, then we will something to show to operations as proof. kind regards
+
+Response 4: Screenshot 2024-12-30 at 10.08.46 AM 620×1172 206 KB No bonus marks
+
+Image explanation: The image shows the grade report for a course titled "Tools in Data Science." It lists assignment scores for each week, the average assignment score, scores for programming quizzes and course projects, the end-term exam score, the total course score and grade, and whether the student is allowed to take the end-term exam.
+
+Response 5: Hi Rajat, If you add up all your score, it comes to 78.6. Your final score was 83. So the additional boost comes from the bonus. I will check with @jkmadathil why the bonus is not explicitly visible. Kind regards
+
+Response 6: carlton: why the bonus is not explicitly visible. This is the only issue
+
+Response 7: Is the bonus visible now? I believe this has been updated in the portal.
+
+Response 8: Yes sir. Thank you so much
+

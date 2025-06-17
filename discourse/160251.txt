@@ -1,0 +1,27 @@
+Title: Reflecting status as "Absent" in TDS Roe on Dashboard
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/reflecting-status-as-absent-in-tds-roe-on-dashboard/160251
+
+Question: Greetings Sir, Hope you are well Sir I an facing an issue in my dashboard I did attend the ROE sir , but on my dashboard it is reflecting “Absent” instead . image 463×488 29 KB @s.anand
+
+Image explanation: The image shows a progress report for a course titled "Tools in Data Science".
+
+Here's a breakdown of the information presented:
+
+*   **Course Title:** Tools in Data Science (NEW COURSE)
+*   **Assignment Scores:**
+    *   Week 1 Assignment - 100.00
+    *   Week 2 Assignment - 90.00
+    *   Week 3 Assignment - 100.00
+    *   Week 4 Assignment - Absent
+    *   Week 5 Assignment - 100.00
+    *   Week 6 Assignment - Absent
+*   **Average Assignment Score:** 100.00 (For EndTerm Eligibility)
+*   **Programming Quiz 1:** Absent
+*   **Allowed to take End Term Exam:** Yes
+*   **Call to Action:** Go to Course page >
+Response 1: Sir @s.anand @carlton even the final score is released and grade is visible but not change is made in the PROGRAMMING QUIZ 1 status yet. I got 70% score in that but it is showing absent instead. It affected my grade severely sir , I would’ve gotten A grade according to that but because the PROGRAMMING QUIZ 1 score is not calculated it is showing C grade. Please help me with this issue sir , I will be really grateful . Again a recent screenshot of TDS dashboard view . image 496×630 38.5 KB Thanking you
+
+Image explanation: The image shows a course grade report for "Tools in Data Science". The report includes assignment scores for each week, average assignment scores, scores for programming quiz, course project, end-term exam, total course score, and course grade letter. It also indicates whether the student is allowed to take the end-term exam, which is "Yes".
+
+Response 2: I have confirmed your marks and informed Operations who will make the appropriate ammendments. Kind regards and Happy New Year
+

@@ -1,0 +1,42 @@
+Title: Create a Question solving groups for ROE
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/create-a-question-solving-groups-for-roe/168567
+
+Question: Whoever wants can participate and then we go into breakout rooms and each group solves a particular question and then we all share the code so we can complete the ROE faster and more effienctly? @all
+
+Response 1: Are we allowed to do that?
+
+Response 2: Yeah they said you can take help anyway possible even  to ask a cat also or a pet, im not sure
+
+Response 3: Alright, works. I am down to collaborate.
+
+Response 4: Asking help is different from sharing answers in a public forum. I don’t think they will permit this.
+
+Response 5: Sharing answers is asking for help
+
+Response 6: If the ROE is like how it was for MOCK ROE1 then this probably wont work right? Only for today’s ROE(mock 2) we can split  the tasks efficiently and get it done. Thoughts?
+
+Response 7: trebhuvansb: Asking help is different from sharing answers in a public forum. I don’t think they will permit this. this is valid. should we just ask them? Could u message a TA?
+
+Response 8: Yeah thats the idea…
+
+Response 9: What's the actual purpose of impossible ROE exam? Tools in Data Science @ankit.jain – I’m the culprit behind this RoE structure. Thanks for the opportunity to share my thought process. 
+What does this RoE evaluate? Implicit learning. 
+
+Implicit learning is “How much can they answer if woken up from sleep?”
+Explicit learning is “How much can they answer given time and Internet?”
+
+Some may know 10% implicitly. Some know 50%. They’ll answer those in a few seconds. 
+Some, they can FIND out. with Google, StackOverflow, ChatGPT. That’s explicit learning. But it takes time…
+
+Response 10: Their whole concept of implicit learning disappears when people start sharing answers in a public forum.
+
+Response 11: On another topic et? read the post, its about explicit learning xD EDIT its implicit my bad !
+
+Response 12: off topic, how do you dm people on discourse?
+
+Response 13: So, are we using this thread, or should we make a Google space or something?
+
+Response 14: I created a discord Discord Join the ACING ROE 1 Discord Server! Check out the ACING ROE 1 community on Discord – hang out with 1 other members and enjoy free voice and text chat. @all
+
+Image explanation: The image shows the logo for Discord. It's a stylized white controller-like figure inside a blue circle. The controller figure has two circular eyes and a smiling mouth.
+

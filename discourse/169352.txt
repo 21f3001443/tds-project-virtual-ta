@@ -1,0 +1,28 @@
+Title: Solve this roe mistake pls
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/solve-this-roe-mistake-pls/169352
+
+Question: image 2559×1599 385 KB can any one tell me why still it shows me that i miss exam although i pass it with 8.
+
+Image explanation: The image is a screenshot of an online quiz or assessment page titled "TDS 2025 Jan ROE". Here's a breakdown of the content:
+
+*   **Header:** Indicates the quiz title "TDS 2025 Jan ROE", the deadline (Sun, 2 Mar, 2025, 1:45 pm IST), and options to "Check all" and "Save".
+
+*   **Instructions:** A list of guidelines for the quiz:
+
+    1.  Learn what you need.
+    2.  Check answers regularly by pressing "Check".
+    3.  Save regularly by pressing "Save".
+    4.  Reloading is OK.
+    5.  Browser may struggle.
+    6.  Use anything.
+    7.  It's hackable.
+
+*   **Bonus Mark:** Information on how to get a bonus mark by filling out a form before 5 pm IST (specifically for IITM students).
+
+*   **Questions/Technical Issues:** Links to "Join Discourse" and "Join Google Meet" for IITM students.
+
+*   **User Login:** Shows the user is logged in as "22IF3000099@ds.study.iitm.ac.in" with a logout option.
+
+*   **Recent Saves:** Displays recent save times and scores, indicating that the user has previously saved the quiz.
+Response 1: Did you submit before 1:47? If yes, then your highest score will be taken. If not then, you will be marked absent.
+

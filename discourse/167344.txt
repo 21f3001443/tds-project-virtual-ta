@@ -1,0 +1,31 @@
+Title: Project 1 - Casual banter
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/project-1-casual-banter/167344
+
+Question: @s.anand @carlton @Jivraj Please extend the deadline please. 88394c0c2e80a1326cfffe020684be4a 480×270 10.3 KB
+
+Image explanation: The image features a cute, begging cat. It's standing on its hind legs with its front paws clasped together in a pleading manner. The cat has a distinctive grey and white tabby pattern. The background is a wooden floor with horizontal planks.
+
+Response 1: Done Kind regards Cant say no to a fuzzy wuzzy cat
+
+Response 2: Thank you very much you do not know but your 1 reply made my heart feels good (literally)
+
+Response 3: What’s the new date sir
+
+Response 4: Now I can definitely say that a cat saved me today.
+
+Response 5: ??? You are joking? BUT really maybe 11:59 + 2 hours
+
+Response 6: This project is due on 16 Feb 2025 EoD IST. Results will be announced by 26 Feb 2025.
+
+Response 7: Sunday 16/02/2025 23:59 IST
+
+Response 8: bro is obsessed with this
+
+Response 9: reading this at 12:01 after submitting A1 to A7 .  okay sleeping now. lets see if what i can finish tomorrow.
+
+Response 10: yes Ayush, you mentioned about your heart and liver problems. its necessary that your heart feels good (just kidding bro )
+
+Response 11: It is good that the practical elements are core in the course though more time should be given for balanced approach between projects and graded assignments. There were some issues I faced. For example, the GitHub link of the datagen.py was incorrect and I was confused due to the code not generating the expected outcome. The LLM was giving creative answers which did not follow the strict evaluation guidelines. So, the case was not passed. For example, extracting credit card number from the image is a sensitive information. I am alright with it since the evaluation will be different. Now, I am really well versed with the tools taught in these weeks. Thanking the whole TDS Team for this project which was very well designed.
+
+Response 12: A post was split to a new topic: Just some background test
+

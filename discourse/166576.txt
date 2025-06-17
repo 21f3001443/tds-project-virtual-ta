@@ -1,0 +1,175 @@
+Title: GA5 - Data Preparation - Discussion Thread [TDS Jan 2025]
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576
+
+Question: Please post any questions related to Graded Assignment 5 - Data Preparation . Please use markdown code formatting (fenced code blocks) when sharing code (rather than screenshots). It’s easier for us to copy-paste and test. Deadline: 2025-02-15T18:30:00Z @Jivraj @Saransh_Saini @carlton
+
+Response 1: 
+
+Response 2: image 1448×623 16.3 KB i can’t load my questions
+
+Image explanation: The image is a screenshot of a webpage, likely an online exam or quiz platform.
+
+Here's what the image shows:
+
+*   **Login Information:** "You are logged in as 23f1002630@ds.study.litm.ac.in." indicating a user account.
+*   **Logout Button:** A "Logout" button is available.
+*   **Recent Saves:** A section titled "Recent saves (most recent is your official score)" with a message "No recent saves".
+*   **Loading Questions:** An area showing "Loading questions..." with a loading icon.
+*   **Error Message:** A red box displaying an error message: "Error! Sorry, we couldn't load the questions. That's strange. Cannot read properties of undefined (reading '1'). Please contact the exam team for assistance."
+
+In summary, the user is logged in, there are no recent saves, the questions are failing to load, and an error message suggests contacting the exam team.
+Response 3: @23f1002630 - thanks for raising this. It’s fixed and won’t re-occur for anyone. What happened? I picked random duration from the video of 10-40 seconds, but forgot to ensure that the end time should not exceed the video length. That’s what I fixed.
+
+Response 4: image 1158×466 11.8 KB It was solved but again I’m facing the same issue
+
+Image explanation: The image shows a web page displaying an error message while trying to load questions for an exam. 
+
+Here's a breakdown:
+
+*   **Top section:** "Recent saves" with a message that there are no recent saves.
+*   **Middle section:** A loading indicator that says "Loading questions..."
+*   **Bottom section:** An error message indicating that the questions could not be loaded. The specific error is "cannot read properties of undefined (reading '1')", suggesting a problem with the data or code trying to access question information. The message also instructs the user to contact the exam team for assistance.
+*   **Buttons:** "Check all" and "Save" buttons are at the bottom.
+Response 5: @s.anand @Jivraj I’m still facing the issue.
+
+Response 6: i guess there’s some issue in 5th question as i have correctly filtered the data in OpenRefine 2-3 times but still getting incorrect in the portal.
+
+Response 7: OpenRefine question has historically been a tricky question to get right. Check out some past TA sessions in previous term for solving it, or previous discourse posts. Kind regards
+
+Response 8: DOUBT IN -Q 9 Sir @carlton Miranda followed the elusive figure.  In the dim corridor,...................... I listened it ,every words and spellings are matching still this error: Error: Words are too different
+
+Response 9: Cleaning Data with OpenRefine Kindly check the question and the answer. I found below cities for São Paulo. However, it says my answer is incorrect. How many units of Bacon were sold in São Paulo on transactions with at least 151 units? city
+Sao Paolo
+Sao Paoulo
+Sao Paulo
+Sao Pualo
+Sau Paulo
+São Paulo image 318×183 5.46 KB
+
+Image explanation: The image is a screenshot of a spreadsheet program, likely Microsoft Excel or Google Sheets. It shows a table with three columns: "city", "product", and "sales". The data appears to be filtered, as indicated by the filter icons in the column headers. The table contains entries for "Bacon" sales in different cities, all of which are variations of "Sao Paulo". The total sales figure (2871) is displayed in cell C2502.
+Response 10: Wrong / Confusing question Prof The top line mentions “Saturdays” whereas the bottom line mentions “Sundays” Please clarify “SUNDAY” or “SATURDAY”? grab-IIT-Madras--Microsoft Edge_at_21.44.39_on__14-02-2025__003253 1920×1816 271 KB
+
+Image explanation: Here's a breakdown of the image content:
+
+**Overall, the image is a document outlining a data analysis task related to website usage.**
+
+**Here's a breakdown of the sections:**
+
+1.  **Title:** Peak Usage Analysis for Regional Content
+2.  **Introduction:**
+    *   Describes a website (`s-anand.net`) with regional music content, especially for the `telugu` section.
+    *   Mentions the use of Apache web server logs for understanding user behavior.
+3.  **Context:**
+    *   Explains that unusual traffic patterns were observed on weekend evenings.
+    *   The goal is to determine the number of successful requests to the `telugu` section during peak hours on Saturdays.
+4.  **Specifics of Interest:**
+    *   `Time Window`: 13:00 until before 23:00
+    *   `Request Type`: Only GET requests
+    *   `Success Criteria`: HTTP status codes between 200 and 299
+    *   `Data Source`: Apache log file (GZipped) for May 2024, containing 258,074 rows
+5.  **Challenges:**
+    *   Logs recorded in GMT-0500 timezone.
+    *   Non-standard log file format (spaces as separators, double quotes for fields except the 'Time' field).
+    *   Minor formatting issues (41 rows with unique quoting).
+6.  **Your Task:**
+    *   To determine the number of successful GET requests for `/telugu` pages on Saturdays between the 13th and 23rd of May 2024.
+    *   This metric is intended to help scale resources, content planning, and marketing insights.
+7.  **Data Description:**
+    *   Mentions a GZipped Apache log file (61MB) with 258,074 rows.
+    *   Each row represents an Apache weblog entry for `s-anand.net` in May 2024.
+    *   Lists the fields present in each log entry:
+        *   `IP`
+        *   `Remote logname`
+        *   `Remote user`
+        *   `Time` (Example given, and noted that it's not quoted)
+        *   `Request` (Method, URL, Protocol)
+        *   `Status`
+        *   `Size`
+        *   `Referer`
+        *   `User agent`
+        *   `Vhost`
+        *   `Server`
+8.  **Format and Notes:**
+    *   Fields separated by spaces and quoted by double quotes.
+    *   Unlike CSV, quotes are escaped via `\` and not `""`.
+    *   Data in GMT-0500 timezone.
+9.  **Outcomes:**
+    *   Lists how the analysis can help with:
+        *   Optimize Infrastructure
+        *   Strategize Content Delivery
+        *   Improve Marketing Efforts
+10. **Final Question:**
+    *   Asks for the number of successful GET requests for pages under `/telugu/` from 13:00 until before 23:00 on Sundays.
+
+**In short, it's a problem statement for a data analysis task.**
+
+Response 11: Update: I tried for both (thank god for filters in Excel) and Sunday is what the question is asking for. The Instruction above for “Saturday” is incorrect- maybe the logic generating different questions for different students can be tweaked- Thank you
+
+Response 12: I’ve attempted this question several times and I’m fairly certain that the answer to this question is incorrect. I’d be grateful if the answer to this question was re-checked. I can share the answer I’m certain about here, however I do not think it would be prudent to do so given this is a public forum. Please consider my request and double check- @Jivraj , @carlton Thank you grab-IIT-Madras--Microsoft Edge_at_23.15.25_on__14-02-2025__003255 1920×1317 210 KB
+
+Image explanation: Here's a breakdown of the image content:
+
+**Overall:**
+
+*   The image shows a case study scenario for a data recovery and business intelligence firm called **ReceiptRevive Analytics.** The focus is on recovering sales data from digitized receipts.
+
+**Scenario:**
+
+*   ReceiptRevive helps companies process legacy sales data from paper receipts.
+*   The OCR (Optical Character Recognition) process used to digitize the receipts sometimes creates incomplete JSON data due to damage on the receipts (torn, faded, etc.).
+*   One of ReceiptRevive's clients, **RetailFlow Inc.**, needs to recover total sales information from a set of digitized receipts to analyze sales performance.
+*   The data is provided in a JSON file with 100 rows, each representing a sales entry.
+*   Each entry should have four keys:
+    *   **city:** The city where the sale was made.
+    *   **product:** The product that was sold.
+    *   **sales:** The number of units sold (or sales revenue).
+    *   **id:** A unique identifier for the receipt.
+*   Due to the digitization process, the "id" field is often missing (the JSON entries are truncated). Despite the missing ID, the main focus is on the aggregate sales value.
+
+**Task:**
+
+*   As a data recovery analyst, the task is to develop a program that does the following:
+    1.  **Parse the Sales Data:** Read the provided JSON file, and accurately extract the "sales" figures from each row, even with the missing "id" field.
+    2.  **Data Validation and Cleanup:** Ensure the data is properly handled, even with incomplete fields. Focus specifically on the "sales" values.
+    3.  **Calculate Total Sales:** Sum the "sales" values across all 100 rows to get an aggregate figure.
+
+**Benefits for RetailFlow Inc.:**
+
+*   Reconstruct historical sales data.
+*   Inform business decisions.
+*   Enhance data recovery processes.
+*   Build client trust (in ReceiptRevive's services).
+
+**Download Link:**
+
+*   The data can be downloaded from a link: `q-parse-partial-json.jsonl`
+
+In essence, the image describes a data recovery task involving parsing a partially incomplete JSON dataset, focusing on extracting and aggregating sales data despite missing unique identifiers.
+
+Response 13: image 817×458 29.3 KB this is my data before date filter - for question 1 please conform am i doing correct. and tell how to do the date filtering as some are in mm-dd-yyyy or yyyy-mm-dd format. as this data is less i did it manually SUM OF COST 14891.00 SUM OF SALES 31004.00 TOTAL 45895.00 TOTAL MARGIN 0.351083996 but this is not correct please guide
+
+Image explanation: The image contains a table of data. Here's a breakdown of the columns and their content:
+
+*   **Country (Normalised):**  This column contains the country name "United Arab Emirates" repeated for each row.
+*   **DATE:** This column holds dates in the format YYYY-MM-DD, such as "2023-07-02", "03-15-2023", and so on.
+*   **Product:** This column is filled with the product name "Kappa".
+*   **Sales:** This column contains numerical values representing sales figures.
+*   **Cost:** This column contains numerical values representing costs.
+
+In summary, the image shows sales and cost data for the product "Kappa" in the "United Arab Emirates" for a series of dates.
+Response 14: @23f1003186 – thanks for flagging this. You’re right. I’ve fixed this error.
+
+Response 15: Any signal for this question? @s.anand @carlton
+
+Response 16: @23f1003186 thanks again for flagging this. This is fixed, too.
+
+Response 17: tried google sheets - it autoformatted my date data, also i realized later i was applying the formula the wrong way. image 987×176 14.4 KB Date formatted and filtered successfully
+
+Image explanation: The image contains a table with sales data for the product "Kappa" in the "United Arab Emirates". The table includes the following columns: "Country (Normalised)", "DATE", "Product", "Sales", and "Cost". The data spans from 2022-06-04 to 2023-02-07.
+
+Response 18: Can you provide the link for that session.
+
+Response 19: image 441×323 4.22 KB How many units of Computer were sold in London on transactions with at least 39 units? please check my answer is not correct - (6193) please guide
+
+Image explanation: The image shows a table with sales data for computers in London. The table has three columns: "city", "product", and "sales". Each row represents a sale of a computer in London, with the corresponding sales amount in the "sales" column.
+

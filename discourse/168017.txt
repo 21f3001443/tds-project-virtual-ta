@@ -1,0 +1,32 @@
+Title: GA5 Score Not Reflecting in The Page After Deadline
+source_url: https://discourse.onlinedegree.iitm.ac.in/t/ga5-score-not-reflecting-in-the-page-after-deadline/168017
+
+Question: Screenshot 2025-02-22 at 12.41.09 AM 2940×1912 443 KB Is this something to worry about?
+
+Image explanation: Here's a breakdown of what's visible in the image:
+
+**Content:**
+
+*   **Exam/Quiz Page:** The image shows a web page for an online assessment or quiz. It's titled "TDS 2025 Jan GA5 - Data Preparation."
+*   **Instructions:** A list of instructions for the quiz-taker. Some key points include:
+    *   Use of provided reading material (but skipping is allowed).
+    *   Checking answers regularly using a "Check" button.
+    *   Saving regularly using a "Save" button.
+    *   Reloading is allowed.
+    *   Being able to use any resource, including the internet and AI models.
+    *   It's "hackable."
+*   **Score:** There is a score of 0.
+*   **User Information:** The user is logged in as "2313004238@ds.study.iitm.ac.in." There's a "Logout" option.
+*   **Recent Saves:** A list of previous saves, including timestamps and scores.
+*   **Questions:** A link to join the discussion on Discourse, if questions have arisen
+
+**Layout and Design:**
+
+*   The page has a dark theme.
+*   There are buttons such as Check all and Save, at the top, and Reload for the previous saves.
+*   A red bar is displayed at the top containing exam data
+
+**In Summary:** This image depicts the screen of an online quiz or assignment page, providing instructions, options for saving and checking, and user-specific information.
+
+Response 1: This is nothing to worry about because as you can see in the Recent saves section, it has your score history. We have your entire submission history because we log that. Kind regards
+
