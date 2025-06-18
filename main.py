@@ -26,6 +26,7 @@ from google import genai
 from google.genai import types
 import base64
 import certifi
+import json
 
 os.environ["SSL_CERT_FILE"] = certifi.where()
 
@@ -109,15 +110,66 @@ def load_embeddings():
 
 def get_llm_answer(question:str, context: str):
     response = client.chat.completions.create(
-        model="gpt-4o",  # or "gpt-4"
+        model="gpt-4o",
         messages=[
-            {"role": "developer", "content": "You are a helpful assistant. Use the provided context to answer the user's question. Always include Source url to the response. The response dont exceed 1000 tokens."},
-            {"role": "user", "content": question},
-            {"role": "assistant", "content": context}
+            {
+                "role": "system",
+                "content": (
+                    "You are a helpful and formal assistant trained to answer user questions using only the provided context.\n\n"
+                    "Instructions:\n"
+                    "1. Respond strictly based on the given context. If insufficient information is available, reply: 'I don't know based on the available context.'\n"
+                    "2. The response must be a summary of the answer and supporting context in **under 100 tokens**.\n"
+                    "3. Keep your tone formal and consistent across all text blocks.\n"
+                    "4. Ensure all blocks are cleanly formatted, formally worded, and styled consistently.\n"
+                    "5. The complete response must not exceed 300 tokens total.\n"
+                )
+            },
+            {
+                "role": "user",
+                "content": f"Question: {question}\n\nContext:\n{context}"
+            }
         ],
-        temperature=0.3,
-        max_tokens=1000
+        response_format={
+            "type": "json_schema",
+            "json_schema": {
+                "name": "tda-response",
+                "strict": True,
+                "schema": {
+                    "type": "object",
+                    "properties": {
+                        "answer": {
+                            "type": "string",
+                            "description": "The assistant's response to the user's question based on the provided context."
+                        },
+                        "links": {
+                            "type": "array",
+                            "description": "List of URLs used to support the answer.",
+                            "items": {
+                                "type": "object",
+                                "properties": {
+                                    "url": { 
+                                        "type": "string",
+                                        "description": "Must be a valid URL. If from Discourse, format should be: https://discourse.onlinedegree.iitm.ac.in/t/<slug>/<topic_id>/<post_number>. Fallback URL is available as 'Source'. Include all possible urls that could be used to support the answer."
+                                    },
+                                    "text": { 
+                                        "type": "string",
+                                        "description": "A brief description of the snippet's content."
+                                    }
+                                },
+                                "required": ["url", "text"],
+                                "additionalProperties": False
+                            }
+                        }
+                    },
+                    "required": ["answer","links"],
+                    "additionalProperties": False
+                }
+            }
+        },
+        temperature=0.7,
+        max_tokens=400
     )
+
     return response.choices[0].message.content
 
 def get_llm_formatter(text:str):
@@ -162,7 +214,7 @@ def get_answer(question:str, image: str = None):
         embeddings = get_embedding(chunks[0])
     final_chunks, final_embeddings, final_source_urls = load_embeddings()
     similarity = np.dot(final_embeddings, embeddings) / (np.linalg.norm(final_embeddings) * np.linalg.norm(embeddings))
-    top_indices = np.argsort(similarity)[-10:][::-1]
+    top_indices = np.argsort(similarity)[-5:][::-1]
     top_chunks = [final_chunks[i] for i in top_indices]
     rerank = rerank_with_llm(question, top_chunks)
     top_3_rerank_indices = rerank[:3]
@@ -173,11 +225,7 @@ def get_answer(question:str, image: str = None):
         [f"Snippet {i+1}: {chunk}\nSource: {top_source_urls[i]}" for i, chunk in enumerate(top_chunks)]
     )
 
-    final_answer = {
-        "answer": get_llm_answer(question, formatted_chunks),
-        "links": [{"url": top_source_urls[i],"text": chunk} for i, chunk in enumerate(top_chunks)]
-    }
-    return final_answer
+    return json.loads(get_llm_answer(question, formatted_chunks))
 
 @app.post("/api")
 def handle_question(request: QuestionRequest):

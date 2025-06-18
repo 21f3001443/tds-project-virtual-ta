@@ -1,0 +1,100 @@
+description: "TDS Virtual TA Project Sample (but not the actual evaluation) Questions"
+
+providers:
+  - id: https
+    config:
+      url: https://21f3001443-tds-project-virtual-ta.hf.space/api # Replace this with your API endpoint
+      method: POST
+      headers:
+        Content-Type: application/json
+      body: |
+        {
+          "question": "{{ question }}"{% if image %},
+          "image": "{{ image }}"{% endif %}
+        }
+      transformResponse: json
+
+# Ensure JSON schema
+defaultTest:
+  assert:
+    - type: is-json
+      value:
+        type: object
+        required: [answer, links]
+        properties:
+          answer: { type: string }
+          links:
+            type: array
+            items:
+              type: object
+              required: [url, text]
+              properties:
+                url: { type: string }
+                text: { type: string }
+
+tests:
+  - vars:
+      question: How to fix this?
+      image: file://161129_69.jpg
+      link: https://discourse.onlinedegree.iitm.ac.in/t/ga2-deployment-tools-discussion-thread-tds-jan-2025/161120/69
+    assert:
+      - type: llm-rubric
+        transform: output.answer
+        value: Clarifies how to fix the issue related to ngrok and methods supported
+      - type: contains
+        transform: JSON.stringify(output.links)
+        value: https://discourse.onlinedegree.iitm.ac.in/t/ga2-deployment-tools-discussion-thread-tds-jan-2025/161120/66
+      - type: contains
+        transform: JSON.stringify(output.links)
+        value: https://discourse.onlinedegree.iitm.ac.in/t/ga2-deployment-tools-discussion-thread-tds-jan-2025/161120/74
+
+  - vars:
+      question: When the project 2 Evaluation happen, do you re run the evalution if i am meeting passing score?
+      link: https://discourse.onlinedegree.iitm.ac.in/t/project-2-tds-solver-discussion-thread/169029/595
+    assert:
+      - type: contains
+        transform: JSON.stringify(output.links)
+        value: https://discourse.onlinedegree.iitm.ac.in/t/project-2-tds-solver-discussion-thread/169029
+
+  - vars:
+      question: I know Docker but have not used Podman before. Should I use Docker for this course?
+    assert:
+      - type: llm-rubric
+        transform: output.answer
+        value: Recommends Podman for the course
+      - type: llm-rubric
+        transform: output.answer
+        value: Mentions that Docker is acceptable
+      - type: contains
+        transform: JSON.stringify(output.links)
+        value: https://tds.s-anand.net/#/docker
+
+  - vars:
+      question: When is the TDS May 2025 end-term exam?
+    assert:
+      - type: llm-rubric
+        transform: output.answer
+        value: May 2025
+      - type: contains
+        transform: JSON.stringify(output.links)
+        value: https://tds.s-anand.net/#/README
+
+  - vars:
+      question: How to use AIPROXY Token togather with docker
+      link: https://discourse.onlinedegree.iitm.ac.in/t/project-1-llm-based-automation-agent-discussion-thread-tds-jan-2025/164277/202
+    assert:
+      - type: contains
+        transform: JSON.stringify(output.links)
+        value: https://discourse.onlinedegree.iitm.ac.in/t/project-1-llm-based-automation-agent-discussion-thread-tds-jan-2025/164277
+
+  - vars:
+      question: What are subjects in IITM BSC Online degree foundation?
+    assert:
+      - type: llm-rubric
+        transform: output.answer
+        value: Says it doesn't know (since this information is not available yet)
+
+writeLatestResults: true
+
+commandLineOptions:
+  cache: true
