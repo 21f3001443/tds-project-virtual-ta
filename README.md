@@ -117,7 +117,7 @@ To develop a Virtual Teaching Assistant (TA) system that responds to student que
 curl "https://21f3001443-tds-project-virtual-ta.hf.space/api" \
   -H "Content-Type: application/json" \
   -d '{
-        "question": "Should I use gpt-4o-mini which AI proxy supports, or gpt3.5 turbo?",
+        "question": "How to fix this?",
         "image": "<base64_encoded_image>"
       }'
 ```
@@ -126,15 +126,11 @@ curl "https://21f3001443-tds-project-virtual-ta.hf.space/api" \
 
 ```json
 {
-  "answer": "You must use `gpt-3.5-turbo-0125`, even if the AI Proxy only supports `gpt-4o-mini`. Use the OpenAI API directly for this question.",
+  "answer": "To address the error of receiving a '429 Too Many Requests' status code, you should check your API usage limits and ensure that you are within the allowed quota of your current plan. The error indicates that the request quota has been exceeded, requiring a review of your billing details and possibly upgrading your plan to increase the request limit. Consult the OpenAI documentation for further guidance on managing API usage and quotas.",
   "links": [
     {
-      "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/155939",
-      "text": "Clarification on GPT model selection"
-    },
-    {
-      "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/155939",
-      "text": "Related discussion on tokenizer usage"
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-jan-2025/163247/28",
+      "text": "Error message indicating exceeded quota with OpenAI API."
     }
   ]
 }
@@ -161,10 +157,10 @@ curl "https://21f3001443-tds-project-virtual-ta.hf.space/api" \
 
 ## **10. Submission Links**
 
+* 🔗 **Working session logs:** [https://github.com/21f3001443/tds-project-virtual-ta/blob/main/scraping.ipynb](https://github.com/21f3001443/tds-project-virtual-ta/blob/main/scraping.ipynb)
 * 🔗 **API Endpoint:** [https://21f3001443-tds-project-virtual-ta.hf.space/api](https://21f3001443-tds-project-virtual-ta.hf.space/api)
 * 🔗 **GitHub Repository:** [https://github.com/username/tds-virtual-ta](https://github.com/username/tds-virtual-ta)
 * 🔗 **Submit Here:** [https://exam.sanand.workers.dev/tds-project-virtual-ta](https://exam.sanand.workers.dev/tds-project-virtual-ta)
-
 ---
 
 ## **11. Learnings**

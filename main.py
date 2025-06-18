@@ -77,6 +77,38 @@ def understand_image_base64(b64_input: str):
     except Exception as e:
         return None
 
+def understand_image_openai(b64_input: str):
+    try:   
+        if b64_input.startswith("data:"):
+            mime_type, image_bytes = parse_base64_data_uri(b64_input)
+        else:
+            mime_type, image_bytes = parse_base64_data_uri(f"data:image/webp;base64,{b64_input}")
+
+        question = [
+            {"type": "text", "text": "What does this image show?"},
+            {
+                "type": "image_url",
+                "image_url": {
+                    "url": f"data:{mime_type};base64,{b64_input}",
+                    "detail": "high"  # or "low"
+                }
+            }   
+        ]
+
+        response = client.chat.completions.create(
+            model="gpt-4o",  # or "gpt-4"
+            messages=[
+                {"role": "user", "content": question}
+            ],
+            temperature=0.3,
+            max_tokens=1000
+        )
+
+        return response.choices[0].message.content
+    
+    except Exception as e:
+        print(f"[Warning] Failed to understand image: {e}")
+        return None
 
 def getchunks(text: str, max_chunk_chars: int = 1000, overlap_chars: int = 200):
     length = len(text)
@@ -231,7 +263,7 @@ def get_answer(question:str, image: str = None):
 def handle_question(request: QuestionRequest):
     question = request.question
     if request.image:
-        image_text = understand_image_base64(request.image)
+        image_text = understand_image_openai(request.image)
         question = f"{question}\n\nImage Description:\n{image_text}"
 
     return JSONResponse(content=get_answer(question), status_code=200)
